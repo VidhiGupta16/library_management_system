@@ -119,14 +119,6 @@ The project includes practice tasks from the training guide:
 4. **Polymorphism**: Shape → Circle, Rectangle with area() method
 5. **Duck typing**: PDFReport, ExcelReport, CSVReport with generate()
 
-## Extension Ideas
-
-- Add due date tracking and late fees
-- Implement book reservations
-- Add search functionality for books and members
-- Create a GUI interface
-- Add database persistence
-- Implement book categories and genres
 
 ## Requirements
 
